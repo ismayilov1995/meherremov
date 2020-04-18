@@ -1,0 +1,30 @@
+{
+  "name": "meherremov",
+  "version": "1.0.0",
+  "description": "Gil vururuq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murad": "echo 'Dilvuranech'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Gil",
+    "vurmaq",
+    "Malalamaq"
+  ],
+  "author": "Ismayil",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.9",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ismayilov1995/meherremov.git"
+  }
+}
